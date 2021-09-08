@@ -1,0 +1,7 @@
+red = 222, 0 ,0
+orange = 254, 98, 44
+yellow = 254, 246, 0
+green = 0, 188, 0
+light blue = 0, 156, 254
+blue = 0, 0, 132
+purple = 44, 0, 156
